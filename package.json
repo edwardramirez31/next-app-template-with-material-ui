@@ -11,6 +11,13 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
+    "@emotion/cache": "^11.10.1",
+    "@emotion/react": "^11.10.0",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.10.0",
     "@reduxjs/toolkit": "^1.6.1",
     "axios": "^0.21.4",
     "formik": "^2.2.9",
