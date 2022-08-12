@@ -2,7 +2,7 @@
   "branches": [
     "master"
   ],
-  "repositoryUrl": "https://github.com/edwardramirez31/my-app",
+  "repositoryUrl": "https://github.com/edwardramirez31/next-app-template-with-material-ui",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
